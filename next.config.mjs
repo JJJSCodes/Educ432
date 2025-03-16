@@ -21,8 +21,8 @@ const nextConfig = {
 		parallelServerBuildTraces: true,
 		parallelServerCompiles: true,
 	},
-	basePath: "/Educ432/",
-	assetPrefix: "/Educ432/",
+	basePath: "/Educ432",
+	assetPrefix: "/Educ432",
 };
 
 mergeConfig(nextConfig, userConfig);

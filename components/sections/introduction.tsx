@@ -99,7 +99,7 @@ export default function Introduction({
 					<div className="order-1 md:order-2 flex justify-center">
 						<div className="relative w-full max-w-md aspect-square">
 							<Image
-								src="/robot.png?height=400&width=400"
+								src="/Educ432/robot.png?height=400&width=400"
 								alt="Internet Infrastructure Visualization"
 								width={400}
 								height={400}

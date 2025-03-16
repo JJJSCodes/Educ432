@@ -132,7 +132,7 @@ export default function KeyConcepts({
 							<div className="flex items-center justify-center">
 								<div className="relative w-full max-w-md">
 									<Image
-										src="/houses.png?height=400&width=500"
+										src="/Educ432/houses.png?height=400&width=500"
 										alt="ISP Network Hierarchy"
 										width={400}
 										height={300}
