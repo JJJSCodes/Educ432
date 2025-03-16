@@ -206,7 +206,9 @@ export default function KeyConcepts({
 									Place ASNs and routers between "You" and
 									"Friend" to create a network path. Then
 									click "Run" to see how routers announce
-									routes and find the best path.
+									routes and find the best path. Click add
+									connection and drag from one ASN to another
+									to create a connection.
 								</p>
 								<ASNRouterInteractive />
 							</div>
